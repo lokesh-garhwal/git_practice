@@ -1,1 +1,1 @@
-<h1>updated git practice from github</h1>
+<h1>updated git practice from github site</h1>
